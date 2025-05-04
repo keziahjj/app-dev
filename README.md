@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-**## MY FAVORITE MOVIES**
+## MY FAVORITE MOVIEs
 # DRAMA/THRILLER/ACTION/FANTASY
 
 > All Time Favorite

@@ -2,7 +2,7 @@
 My first repository
 
 # MY FAVORITE MOVIES
-DRAMA/THRILLER/ACTION/FANTASY
+## DRAMA/THRILLER/ACTION/FANTASY
 
 All Time Favorite
 1. The Green Mile

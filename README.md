@@ -1,10 +1,10 @@
 # app-dev
 My first repository
 
-## MY FAVORITE MOVIEs
-# DRAMA/THRILLER/ACTION/FANTASY
+# MY FAVORITE MOVIES
+DRAMA/THRILLER/ACTION/FANTASY
 
-> All Time Favorite
+All Time Favorite
 1. The Green Mile
 2. Shutter Island
 3. Deadpool
